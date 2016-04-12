@@ -35,3 +35,11 @@ To shoot at the zombie you have three options:
 
 At first I only had the make fist option but I found that option very tiring. So I decided to incorporate the wave-left and wave-right gestures. I found that when you were aiming to the left of the screen ( pointing your arm to the left of the screen) the most natural/easiest gesture to create was the wave-left gesture. The same applied to aiming to the right of the screen.   
 
+
+##Hardware Used
+
+The Myo armband designed by Thalmic Labs was the main hardware used for this project. The armband allows for hands-free control of a wide range of technology. It enables the user to control technology wirelessly using various wrist and forearm motions. It uses a set of electromyographic sensors that sense electrical activity in the forearm, combined with a gyroscope, accelerometer and magnetometer to recognize gestures.
+
+I found the Myo armband problematic at times. The gestures weren’t always picked up straight away meaning I had to recreate them twice or even three times. The double tap gesture was my least favourite and for this reason it is not in my game. The make a fist gesture is unresponsive at times.
+
+
