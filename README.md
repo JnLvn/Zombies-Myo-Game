@@ -14,7 +14,7 @@ The Myo armband is used to control your aim and to fire shoots as well.
 
 ##Gestures Identified
 
-The Myo armband responds to a variety of gestures you make with your hand. Gestures include: Fingers spread, wave right, wave left, fist, rotate.
+The Myo armband responds to a variety of gestures you make with your hand. Gestures include: Fingers spread, wave right, wave left, fist, rotate, double tap.
 
 
 ![alt tag](https://camo.githubusercontent.com/588008914020ff115d0fae331a16005ca6aa9e77/68747470733a2f2f612e706f6d662e6361742f62616b69736c2e6a7067)
