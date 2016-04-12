@@ -42,4 +42,8 @@ The Myo armband designed by Thalmic Labs was the main hardware used for this pro
 
 I found the Myo armband problematic at times. The gestures weren’t always picked up straight away meaning I had to recreate them twice or even three times. The double tap gesture was my least favourite and for this reason it is not in my game. The make a fist gesture is unresponsive at times.
 
+##Architecture
+
+![alt tag](https://raw.githubusercontent.com/JnLvn/Zombies-Myo-Game/master/ClassDiagram1.png)
+
 
