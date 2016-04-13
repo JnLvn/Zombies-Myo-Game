@@ -46,4 +46,19 @@ I found the Myo armband problematic at times. The gestures weren’t always pick
 
 ![alt tag](https://raw.githubusercontent.com/JnLvn/Zombies-Myo-Game/master/ClassDiagram1.png)
 
+Main scripts for project:
+
+•	ThalmicMyo & ThalmicHub - These two scripts comes as standard with the Myo SDK and are what connects to the actual armband itself.
+•	GameController – This is the heart of the game. Controls the spawning of enemy game objects (zombies), score, health, game over and restart game methods.
+•	PlayerController – Controls how the player shoots in the game. Myo gestures to shoot.
+•	JointOrientation – Controls how the player aims. 
+•	DestroyByContact – Determines when a zombie is hit by shot. Then destroys them. If zombie hits player, gameOver method called. Also if zombie passes player on screen, minus 25 from health (the idea that the zombie has reached the village and the game is over).
+•	Mover – Moves zombies in game.
+•	ShotMover – Moves shot when fired.
+•	StartGame – Main menu for game.
+•	ZombieAnimator – Animator to create zombie walk effect.
+
+
+
+
 
