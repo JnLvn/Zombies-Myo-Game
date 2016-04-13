@@ -66,7 +66,17 @@ Main scripts for project:
 
 •	ZombieAnimator – Animator to create zombie walk effect.
 
+##Conclusion
 
+Although I really like the idea of the Myo armband, I wasn’t so convinced by it’s performance. The gestures weren’t always picked up straight away meaning I had to recreate them twice or even three times. I had particular trouble with the double tap gesture. I found the make a fist gesture very tiring as I had to over emphasize the gesture everytime. The wave-left and right gestures were ok but often found them either too sensitive or not enough. 
+
+I didn’t like the way I had to constantly re-sync the armband. Very tedious.
+The product itself was a nice design and pretty comfortable. It was a small bit bulky and didn’t quite feel right under a jumper or hoodie (something to be addressed in future models).
+
+
+##Recommendations
+
+Sort out the problems stated above and I feel the Myo could be onto a winner. There are endless possibilities as to what it could be used for, with particular opportunities for an all-round home controller I feel. 
 
 
 
